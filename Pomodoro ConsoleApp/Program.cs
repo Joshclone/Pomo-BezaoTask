@@ -22,7 +22,7 @@ namespace Pomodoro_ConsoleApp
     //here user enters their prefered work time and rest time
                 Console.WriteLine("\nPlease input your prefered restperiod: ");
                 int restPeriod = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Rest Period saved please proced");
+                Console.WriteLine("Rest Period saved please proceed");
 
 
 
