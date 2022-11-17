@@ -3,7 +3,7 @@ using System.Timers;
 using System.Diagnostics;
 using System.Threading;
 
-namespace Pomodoro_timer
+namespace Pomodoro_ConsoleApp
 {
     public class AppTimer
     {
@@ -19,7 +19,7 @@ namespace Pomodoro_timer
         public AppTimer(int workTime, int restPeriod)
         {
             this.workTime = workTime;
-            this.restTime = restPeriod;
+            this.restPeriod = restPeriod;
         }
 
 
@@ -45,7 +45,7 @@ namespace Pomodoro_timer
                 ts.Milliseconds / 10);
 
 
-            Console.WriteLine($"\nWork time lasted for {elapsedTime} \n{workTimeStart} - {workTimeEnd}");
+            Console.WriteLine($"\nHi there your Work time lasted for {elapsedTime} \n{workTimeStart} - {workTimeEnd}");
         }
 
 
@@ -65,6 +65,9 @@ namespace Pomodoro_timer
             var restPeriodEnd = DateTime.Now.ToString("HH:mm");
 
 
+
+    Console.Beep();
+
             TimeSpan ts = stopWatch.Elapsed;
 
             string elapsedTime = String.Format("{0:00}:{1:00}:{2:00}",
@@ -72,7 +75,7 @@ namespace Pomodoro_timer
                 ts.Milliseconds / 10);
 
 
-            Console.WriteLine($"\nRestPeriod lasted for {elapsedTime} \n{restPeriodBegins} - {restPeriodEnd}");
+            Console.WriteLine($"\nYour RestPeriod lasted for {elapsedTime} \n{restPeriodBegins} - {restPeriodEnd}");
         }
 
 
