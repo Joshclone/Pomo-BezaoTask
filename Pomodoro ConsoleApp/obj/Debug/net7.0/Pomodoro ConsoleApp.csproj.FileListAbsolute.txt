@@ -1,0 +1,15 @@
+C:\Users\Joshua\Desktop\Pomodoro ConsoleApp\bin\Debug\net7.0\Pomodoro ConsoleApp.exe
+C:\Users\Joshua\Desktop\Pomodoro ConsoleApp\bin\Debug\net7.0\Pomodoro ConsoleApp.deps.json
+C:\Users\Joshua\Desktop\Pomodoro ConsoleApp\bin\Debug\net7.0\Pomodoro ConsoleApp.runtimeconfig.json
+C:\Users\Joshua\Desktop\Pomodoro ConsoleApp\bin\Debug\net7.0\Pomodoro ConsoleApp.dll
+C:\Users\Joshua\Desktop\Pomodoro ConsoleApp\bin\Debug\net7.0\Pomodoro ConsoleApp.pdb
+C:\Users\Joshua\Desktop\Pomodoro ConsoleApp\obj\Debug\net7.0\Pomodoro ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Joshua\Desktop\Pomodoro ConsoleApp\obj\Debug\net7.0\Pomodoro ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua\Desktop\Pomodoro ConsoleApp\obj\Debug\net7.0\Pomodoro ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Joshua\Desktop\Pomodoro ConsoleApp\obj\Debug\net7.0\Pomodoro ConsoleApp.AssemblyInfo.cs
+C:\Users\Joshua\Desktop\Pomodoro ConsoleApp\obj\Debug\net7.0\Pomodoro ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Desktop\Pomodoro ConsoleApp\obj\Debug\net7.0\Pomodoro ConsoleApp.dll
+C:\Users\Joshua\Desktop\Pomodoro ConsoleApp\obj\Debug\net7.0\refint\Pomodoro ConsoleApp.dll
+C:\Users\Joshua\Desktop\Pomodoro ConsoleApp\obj\Debug\net7.0\Pomodoro ConsoleApp.pdb
+C:\Users\Joshua\Desktop\Pomodoro ConsoleApp\obj\Debug\net7.0\Pomodoro ConsoleApp.genruntimeconfig.cache
+C:\Users\Joshua\Desktop\Pomodoro ConsoleApp\obj\Debug\net7.0\ref\Pomodoro ConsoleApp.dll
